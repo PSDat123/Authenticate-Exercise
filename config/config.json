@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "psdat123",
+    "password": "q5yad9IwUngYpd2O8VdXRHtRvYckMx1F",
+    "database": "db_0vwm",
+    "host": "dpg-clfek5d8td7s73b9bgi0-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "psdat123",
+    "password": "q5yad9IwUngYpd2O8VdXRHtRvYckMx1F",
+    "database": "db_0vwm",
+    "host": "dpg-clfek5d8td7s73b9bgi0-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
